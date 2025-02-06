@@ -1,0 +1,177 @@
+﻿/* ========================== */
+/* 📌 CONFIGURAÇÕES GERAIS */
+/* ========================== */
+
+/* Fonte base */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.form-floating > .form-control-plaintext::placeholder,
+.form-floating > .form-control::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder,
+.form-floating > .form-control:focus::placeholder {
+    text-align: start;
+}
+
+/* ========================== */
+/*  TEMA CLARO (PADRÃO) */
+/* ========================== */
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e5e5 !important;
+}
+
+.footer {
+    background-color: #f8f9fa !important;
+    color: #000000 !important;
+}
+
+.card {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border: 1px solid #ddd !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-light {
+    background-color: #f8f9fa !important;
+    color: #000000 !important;
+    border: 1px solid #ccc !important;
+}
+
+    .btn-light:hover {
+        background-color: #e2e6ea !important;
+        border: 1px solid #bbb !important;
+    }
+
+.btn-primary {
+    background-color: #0d6efd !important;
+    border-color: #0b5ed7 !important;
+    color: #ffffff !important;
+}
+
+    .btn-primary:hover {
+        background-color: #0a58ca !important;
+        border-color: #0a4db8 !important;
+    }
+
+a {
+    color: #0077cc !important;
+}
+
+    a:hover {
+        color: #0056b3 !important;
+    }
+
+i,
+.feature-icon {
+    color: #007bff !important;
+}
+
+/* ========================== */
+/* 📌 TEMA ESCURO */
+/* ========================== */
+
+body.dark-theme {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+}
+
+    body.dark-theme .navbar {
+        background-color: #1e1e1e !important;
+        border-bottom: 1px solid #333 !important;
+    }
+
+    body.dark-theme .footer {
+        background-color: #1e1e1e !important;
+        color: #e0e0e0 !important;
+    }
+
+
+    body.dark-theme .card {
+        background-color: #1e1e1e !important;
+        color: #ffffff !important;
+        border: 1px solid #333 !important;
+    }
+
+    body.dark-theme .btn-light {
+        background-color: #444 !important;
+        color: #ffffff !important;
+        border: 1px solid #666 !important;
+    }
+
+    body.dark-theme .btn-primary {
+        background-color: #0d6efd !important;
+        border-color: #0b5ed7 !important;
+        color: #ffffff !important;
+    }
+
+        body.dark-theme .btn-primary:hover {
+            background-color: #0a58ca !important;
+            border-color: #0a4db8 !important;
+        }
+
+
+    body.dark-theme a {
+        color: #66b2ff !important;
+    }
+
+        body.dark-theme a:hover {
+            color: #bbdefb !important;
+        }
+
+    /* Ícones */
+    body.dark-theme i,
+    body.dark-theme .feature-icon {
+        color: #f8b400 !important; 
+    }
+
+
+
+/* ========================== */
+/* 🎨 TRANSIÇÃO SUAVE ENTRE TEMAS */
+/* ========================== */
+body {
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.navbar,
+.footer,
+.card,
+.btn,
+a,
+.feature-icon {
+    transition: all 0.5s ease;
+}
+
+/* Efeito Fade na mudança de tema */
+body.theme-transition {
+    transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}

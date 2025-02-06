@@ -1,0 +1,156 @@
+/* Estilos gerais */
+a.navbar-brand[b-4ecupm36kl] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-4ecupm36kl] {
+    color: #0077cc;
+}
+
+.btn-primary[b-4ecupm36kl] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-4ecupm36kl], .nav-pills .show > .nav-link[b-4ecupm36kl] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-4ecupm36kl] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-4ecupm36kl] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-4ecupm36kl] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-4ecupm36kl] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-4ecupm36kl] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+/* Estilos específicos para a página inicial */
+.welcome-section[b-4ecupm36kl] {
+    padding: 100px 0;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.features-section[b-4ecupm36kl] {
+    padding: 50px 0;
+}
+
+.feature-icon[b-4ecupm36kl] {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+/* Estilos para o tema claro (padrão) */
+body[b-4ecupm36kl] {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.navbar[b-4ecupm36kl] {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.footer[b-4ecupm36kl] {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+/* Melhorando visibilidade de texto e ícones no tema escuro */
+body.dark-theme[b-4ecupm36kl] {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+    /* Navbar */
+    body.dark-theme .navbar[b-4ecupm36kl] {
+        background-color: #1e1e1e !important;
+        border-bottom: 1px solid #333;
+    }
+
+    /* Footer */
+    body.dark-theme .footer[b-4ecupm36kl] {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+    }
+
+    /* Cards */
+    body.dark-theme .card[b-4ecupm36kl] {
+        background-color: #1e1e1e;
+        color: #ffffff;
+        border: 1px solid #333;
+    }
+
+    /* Melhor contraste para botões */
+    body.dark-theme .btn-light[b-4ecupm36kl] {
+        background-color: #444;
+        color: #ffffff;
+        border: 1px solid #666;
+    }
+
+        body.dark-theme .btn-light:hover[b-4ecupm36kl] {
+            background-color: #555;
+            border: 1px solid #777;
+        }
+
+    body.dark-theme .btn-primary[b-4ecupm36kl] {
+        background-color: #0d6efd;
+        border-color: #0b5ed7;
+        color: #ffffff;
+    }
+
+        body.dark-theme .btn-primary:hover[b-4ecupm36kl] {
+            background-color: #0a58ca;
+            border-color: #0a4db8;
+        }
+
+    /* Melhor contraste para links */
+    body.dark-theme a[b-4ecupm36kl] {
+        color: #66b2ff;
+    }
+
+        body.dark-theme a:hover[b-4ecupm36kl] {
+            color: #bbdefb;
+        }
+
+    /* Melhor contraste para ícones */
+    body.dark-theme i[b-4ecupm36kl],
+    body.dark-theme .feature-icon[b-4ecupm36kl] {
+        color: #f8b400 !important; /* Ícones destacados em amarelo para melhor visibilidade */
+    }
+
+    /* Seções */
+    body.dark-theme .welcome-section[b-4ecupm36kl] {
+        background-color: #1e1e1e;
+        color: #ffffff;
+    }
+
+    body.dark-theme .features-section .card[b-4ecupm36kl] {
+        background-color: #242424;
+        color: #ffffff;
+        border: 1px solid #444;
+    }

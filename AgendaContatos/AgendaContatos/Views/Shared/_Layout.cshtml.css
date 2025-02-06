@@ -1,0 +1,156 @@
+﻿/* Estilos gerais */
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a {
+    color: #0077cc;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+/* Estilos específicos para a página inicial */
+.welcome-section {
+    padding: 100px 0;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.features-section {
+    padding: 50px 0;
+}
+
+.feature-icon {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+/* Estilos para o tema claro (padrão) */
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+/* Melhorando visibilidade de texto e ícones no tema escuro */
+body.dark-theme {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+    /* Navbar */
+    body.dark-theme .navbar {
+        background-color: #1e1e1e !important;
+        border-bottom: 1px solid #333;
+    }
+
+    /* Footer */
+    body.dark-theme .footer {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+    }
+
+    /* Cards */
+    body.dark-theme .card {
+        background-color: #1e1e1e;
+        color: #ffffff;
+        border: 1px solid #333;
+    }
+
+    /* Melhor contraste para botões */
+    body.dark-theme .btn-light {
+        background-color: #444;
+        color: #ffffff;
+        border: 1px solid #666;
+    }
+
+        body.dark-theme .btn-light:hover {
+            background-color: #555;
+            border: 1px solid #777;
+        }
+
+    body.dark-theme .btn-primary {
+        background-color: #0d6efd;
+        border-color: #0b5ed7;
+        color: #ffffff;
+    }
+
+        body.dark-theme .btn-primary:hover {
+            background-color: #0a58ca;
+            border-color: #0a4db8;
+        }
+
+    /* Melhor contraste para links */
+    body.dark-theme a {
+        color: #66b2ff;
+    }
+
+        body.dark-theme a:hover {
+            color: #bbdefb;
+        }
+
+    /* Melhor contraste para ícones */
+    body.dark-theme i,
+    body.dark-theme .feature-icon {
+        color: #f8b400 !important; /* Ícones destacados em amarelo para melhor visibilidade */
+    }
+
+    /* Seções */
+    body.dark-theme .welcome-section {
+        background-color: #1e1e1e;
+        color: #ffffff;
+    }
+
+    body.dark-theme .features-section .card {
+        background-color: #242424;
+        color: #ffffff;
+        border: 1px solid #444;
+    }

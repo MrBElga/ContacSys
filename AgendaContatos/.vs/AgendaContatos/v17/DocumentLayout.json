@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\AppData\\Local\\Temp\\.vsdbgsrc\\322beca6c653df40fb7abfcb55a7a46253dfea90e1249383f5e06ec31f0dc786\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\aluno\\desktop\\contacsys\\agendacontatos\\agendacontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AgendaContatos\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-01T22:53:30.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AgendaContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T22:53:12.967Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\AppData\\Local\\Temp\\.vsdbgsrc\\322beca6c653df40fb7abfcb55a7a46253dfea90e1249383f5e06ec31f0dc786\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\322beca6c653df40fb7abfcb55a7a46253dfea90e1249383f5e06ec31f0dc786\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\AppData\\Local\\Temp\\.vsdbgsrc\\322beca6c653df40fb7abfcb55a7a46253dfea90e1249383f5e06ec31f0dc786\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\322beca6c653df40fb7abfcb55a7a46253dfea90e1249383f5e06ec31f0dc786\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:28:37.738Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAjwKIAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-06T19:26:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:44:29.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Program.cs",
+              "RelativeToolTip": "AgendaContatos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T23:11:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T22:23:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AgendaContatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T22:15:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgendaContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T22:12:31.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ContacSys\\AgendaContatos\\AgendaContatos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:10:55.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
