@@ -1,7 +1,7 @@
 # Sistema de Cadastro de Contatos 📇
 
 ## Descrição 🌟
-O **Sistema de Cadastro de Contatos** é uma aplicação simples desenvolvida utilizando **ASP.Net MVC** com **C#**. Ele permite a criação, edição, visualização e exclusão de contatos, mantendo informações como nome, e-mail, telefone e endereço. O sistema tem uma interface amigável e pode ser integrado com um banco de dados relacional como o **SQL Server**.
+O **Sistema de Cadastro de Contatos** é uma aplicação simples desenvolvida utilizando **ASP.Net MVC** com **C#**. Ele permite a criação, edição, visualização e exclusão de contatos, mantendo informações como nome, e-mail e telefone. O sistema tem uma interface amigável e pode ser integrado com um banco de dados relacional como o **SQL Server**.
 
 ## Tecnologias Utilizadas 🛠️
 - **ASP.Net MVC** 💻
