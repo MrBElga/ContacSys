@@ -1,0 +1,42 @@
+﻿@model AgendaContatos.Models.Contato
+
+<h2>Criar Novo Contato</h2>
+
+<form  asp-action="Create" method="post" class="needs-validation" novalidate>
+    <div class="form-floating mb-3">
+        <input asp-for="Nome" class="form-control" placeholder="Nome" required>
+        <label asp-for="Nome">Nome</label>
+        <div class="invalid-feedback">O nome é obrigatório.</div>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input asp-for="Email" type="email" class="form-control" placeholder="E-mail" required>
+        <label asp-for="Email">E-mail</label>
+        <div class="invalid-feedback">Insira um e-mail válido.</div>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input asp-for="Celular" class="form-control" placeholder="Celular" required>
+        <label asp-for="Celular">Celular</label>
+        <div class="invalid-feedback">O celular é obrigatório.</div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+<script>
+    (function () {
+        'use strict';
+        var forms = document.querySelectorAll('.needs-validation');
+        Array.prototype.slice.call(forms).forEach(function (form) {
+            form.addEventListener('submit', function (event) {
+                if (!form.checkValidity()) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+                form.classList.add('was-validated');
+            }, false);
+        });
+    })();
+</script>

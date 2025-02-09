@@ -1,38 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\repository\\contatorepositoryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\repository\\contatorepositoryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\data\\bancocontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\data\\bancocontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\views\\contatos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\contatos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\views\\contatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\views\\contatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\agendacontatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\agendacontatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\contacsys\\agendacontatos\\agendacontatos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|c:\\users\\danie\\onedrive\\desktop\\agendacontatos\\agendacontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{55ACA9F9-9C5D-4A38-941F-1EED3D7D6FAE}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Migrations\\20250208183015_CriandoTabelaContatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgendaContatos\\Migrations\\20250208183015_CriandoTabelaContatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,113 +82,238 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "AgendaContatos\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-01T22:53:30.275Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AgendaContatos\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAwwLsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-01T22:53:12.967Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T19:44:29.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Program.cs",
-              "RelativeDocumentMoniker": "AgendaContatos\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Program.cs",
-              "RelativeToolTip": "AgendaContatos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T23:11:18.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "AgendaContatos\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAwwJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-01T22:23:49.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AgendaContatos\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AgendaContatos\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T22:15:38.302Z",
+              "WhenOpened": "2025-02-09T16:18:43.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AgendaContatos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwD8AAAAHAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Contatos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Delete.cshtml",
+              "RelativeToolTip": "AgendaContatos\\Views\\Contatos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T22:12:31.28Z",
+              "WhenOpened": "2025-02-09T15:51:23.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\AgendaContatos\\AgendaContatos\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AgendaContatos\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwDYAAAAAAAAAAAAAAA==",
+              "Title": "ContatoRepositoryInterface.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Repository\\ContatoRepositoryInterface.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Repository\\ContatoRepositoryInterface.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Repository\\ContatoRepositoryInterface.cs",
+              "RelativeToolTip": "AgendaContatos\\Repository\\ContatoRepositoryInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T22:10:55.982Z",
+              "WhenOpened": "2025-02-08T21:40:29.098Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Repository\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Repository\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Repository\\ContatoRepository.cs",
+              "RelativeToolTip": "AgendaContatos\\Repository\\ContatoRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:38:55.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BancoContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Data\\BancoContextFactory.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Data\\BancoContextFactory.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Data\\BancoContextFactory.cs",
+              "RelativeToolTip": "AgendaContatos\\Data\\BancoContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:28:15.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatosController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:21:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Contatos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Create.cshtml",
+              "RelativeToolTip": "AgendaContatos\\Views\\Contatos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T22:13:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Contatos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Index.cshtml",
+              "RelativeToolTip": "AgendaContatos\\Views\\Contatos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T22:18:48.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgendaContatos\\Views\\Contatos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Views\\Contatos\\Edit.cshtml",
+              "RelativeToolTip": "AgendaContatos\\Views\\Contatos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T15:50:18.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AgendaContatos\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T15:44:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Data\\BancoContext.cs",
+              "RelativeToolTip": "AgendaContatos\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:28:09.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Models\\Contato.cs",
+              "RelativeToolTip": "AgendaContatos\\Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:44:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AgendaContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAUwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-09T15:43:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AgendaContatos",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\AgendaContatos.csproj",
+              "RelativeDocumentMoniker": "AgendaContatos\\AgendaContatos.csproj",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\AgendaContatos.csproj",
+              "RelativeToolTip": "AgendaContatos\\AgendaContatos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T15:43:51.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Startup.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Startup.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Startup.cs",
+              "RelativeToolTip": "AgendaContatos\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:11:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Program.cs",
+              "RelativeToolTip": "AgendaContatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:31:49.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "AgendaContatos\\appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\appsettings.json",
+              "RelativeToolTip": "AgendaContatos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T17:46:41.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250208183015_CriandoTabelaContatos.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Migrations\\20250208183015_CriandoTabelaContatos.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Migrations\\20250208183015_CriandoTabelaContatos.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\ContacSys\\AgendaContatos\\AgendaContatos\\Migrations\\20250208183015_CriandoTabelaContatos.cs",
+              "RelativeToolTip": "AgendaContatos\\Migrations\\20250208183015_CriandoTabelaContatos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:30:15.654Z"
             }
           ]
         }

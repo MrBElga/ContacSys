@@ -2,27 +2,36 @@
 /* 📌 CONFIGURAÇÕES GERAIS */
 /* ========================== */
 
-/* Fonte base */
-html {
-    font-size: 14px;
-}
-
-@media (min-width: 768px) {
-    html {
-        font-size: 16px;
-    }
+html, body {
+    height: 100%; /* Garante que o html e o body ocupem 100% da altura da tela */
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px; /* Tamanho da fonte base */
 }
 
 body {
-    margin-bottom: 60px;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-bottom: 10px; /* Espaçamento para o footer */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave para o tema */
 }
 
-html {
-    position: relative;
-    min-height: 100%;
+/* Container principal */
+.container {
+    flex: 1; /* Faz o container principal ocupar o espaço restante */
+    padding-bottom: 10px; /* Adiciona um espaçamento para o footer */
 }
 
+/* Footer */
+.footer {
+    flex-shrink: 0; /* Impede que o footer encolha */
+    width: 100%;
+    background-color: #f8f9fa; /* Cor de fundo do footer */
+    border-top: 1px solid #e5e5e5; /* Borda superior */
+    padding: 10px 0; /* Espaçamento interno */
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+/* Placeholders para formulários */
 .form-floating > .form-control-plaintext::placeholder,
 .form-floating > .form-control::placeholder {
     color: var(--bs-secondary-color);
@@ -34,6 +43,7 @@ html {
     text-align: start;
 }
 
+
 /* ========================== */
 /*  TEMA CLARO (PADRÃO) */
 /* ========================== */
@@ -41,7 +51,6 @@ body {
     background-color: #ffffff;
     color: #000000;
 }
-
 
 .navbar {
     background-color: #ffffff !important;
@@ -114,7 +123,6 @@ body.dark-theme {
         color: #e0e0e0 !important;
     }
 
-
     body.dark-theme .card {
         background-color: #1e1e1e !important;
         color: #ffffff !important;
@@ -138,7 +146,6 @@ body.dark-theme {
             border-color: #0a4db8 !important;
         }
 
-
     body.dark-theme a {
         color: #66b2ff !important;
     }
@@ -150,10 +157,8 @@ body.dark-theme {
     /* Ícones */
     body.dark-theme i,
     body.dark-theme .feature-icon {
-        color: #f8b400 !important; 
+        color: #f8b400 !important;
     }
-
-
 
 /* ========================== */
 /* 🎨 TRANSIÇÃO SUAVE ENTRE TEMAS */
@@ -174,4 +179,72 @@ a,
 /* Efeito Fade na mudança de tema */
 body.theme-transition {
     transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+/* ========================== */
+/* 📌 FORMULÁRIOS */
+/* ========================== */
+
+.form-control {
+    background-color: var(--bs-body-bg);
+    color: var(--bs-body-color);
+    border: 1px solid var(--bs-border-color);
+}
+
+    .form-control:focus {
+        background-color: var(--bs-body-bg);
+        color: var(--bs-body-color);
+        border-color: var(--bs-primary);
+        box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    }
+
+.form-label {
+    color: var(--bs-body-color);
+}
+
+/* ========================== */
+/* 📌 BOTÕES */
+/* ========================== */
+
+.btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    color: var(--bs-white);
+}
+
+    .btn-primary:hover {
+        background-color: var(--bs-primary-dark);
+        border-color: var(--bs-primary-dark);
+    }
+
+.btn-secondary {
+    background-color: var(--bs-secondary);
+    border-color: var(--bs-secondary);
+    color: var(--bs-white);
+}
+
+    .btn-secondary:hover {
+        background-color: var(--bs-secondary-dark);
+        border-color: var(--bs-secondary-dark);
+    }
+
+.btn-danger {
+    background-color: var(--bs-danger);
+    border-color: var(--bs-danger);
+    color: var(--bs-white);
+}
+
+    .btn-danger:hover {
+        background-color: var(--bs-danger-dark);
+        border-color: var(--bs-danger-dark);
+    }
+
+/* ========================== */
+/* 📌 ALERTAS */
+/* ========================== */
+
+.alert-warning {
+    background-color: var(--bs-warning-bg-subtle);
+    border-color: var(--bs-warning-border-subtle);
+    color: var(--bs-warning-text);
 }

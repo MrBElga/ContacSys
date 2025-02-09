@@ -1,0 +1,17 @@
+﻿@model AgendaContatos.Models.Contato
+
+@{
+    ViewData["Title"] = "Excluir Contato";
+}
+
+<h1 class="display-4">@ViewData["Title"]</h1>
+
+<div class="alert alert-warning">
+    <p>Tem certeza que deseja excluir o contato <strong>@Html.DisplayFor(model => model.Nome)</strong>?</p>
+</div>
+
+<form asp-action="Apagar" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Excluir</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

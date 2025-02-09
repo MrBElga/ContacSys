@@ -1,70 +1,52 @@
-﻿/* Estilos gerais */
-a.navbar-brand {
-    white-space: normal;
-    text-align: center;
-    word-break: break-all;
+﻿/* ========================== */
+/* 📌 CONFIGURAÇÕES GERAIS */
+/* ========================== */
+
+html, body {
+    height: 100%; /* Garante que o html e o body ocupem 100% da altura da tela */
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px; /* Tamanho da fonte base */
 }
 
-a {
-    color: #0077cc;
+body {
+    margin-bottom: 10px; /* Espaçamento para o footer */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave para o tema */
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+/* Container principal */
+.container {
+    flex: 1; /* Faz o container principal ocupar o espaço restante */
+    padding-bottom: 20px; /* Adiciona um espaçamento para o footer */
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
-}
-
-.border-top {
-    border-top: 1px solid #e5e5e5;
-}
-
-.border-bottom {
-    border-bottom: 1px solid #e5e5e5;
-}
-
-.box-shadow {
-    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-button.accept-policy {
-    font-size: 1rem;
-    line-height: inherit;
-}
-
+/* Footer */
 .footer {
-    position: absolute;
-    bottom: 0;
+    flex-shrink: 0; /* Impede que o footer encolha */
     width: 100%;
-    white-space: nowrap;
-    line-height: 60px;
+    background-color: #f8f9fa; /* Cor de fundo do footer */
+    border-top: 1px solid #e5e5e5; /* Borda superior */
+    padding: 20px 0; /* Espaçamento interno */
+    text-align: center; /* Centraliza o conteúdo */
 }
 
-/* Estilos específicos para a página inicial */
-.welcome-section {
-    padding: 100px 0;
-    background-color: #007bff;
-    color: white;
-    border-radius: 10px;
-    margin-bottom: 20px;
+/* Placeholders para formulários */
+.form-floating > .form-control-plaintext::placeholder,
+.form-floating > .form-control::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
 }
 
-.features-section {
-    padding: 50px 0;
+.form-floating > .form-control-plaintext:focus::placeholder,
+.form-floating > .form-control:focus::placeholder {
+    text-align: start;
 }
 
-.feature-icon {
-    font-size: 3rem;
-    color: #007bff;
-}
 
-/* Estilos para o tema claro (padrão) */
+/* ========================== */
+/*  TEMA CLARO (PADRÃO) */
+/* ========================== */
 body {
     background-color: #ffffff;
     color: #000000;
@@ -72,85 +54,197 @@ body {
 
 .navbar {
     background-color: #ffffff !important;
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5 !important;
 }
 
 .footer {
-    background-color: #f8f9fa;
-    color: #000000;
+    background-color: #f8f9fa !important;
+    color: #000000 !important;
 }
 
-/* Melhorando visibilidade de texto e ícones no tema escuro */
+.card {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border: 1px solid #ddd !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-light {
+    background-color: #f8f9fa !important;
+    color: #000000 !important;
+    border: 1px solid #ccc !important;
+}
+
+    .btn-light:hover {
+        background-color: #e2e6ea !important;
+        border: 1px solid #bbb !important;
+    }
+
+.btn-primary {
+    background-color: #0d6efd !important;
+    border-color: #0b5ed7 !important;
+    color: #ffffff !important;
+}
+
+    .btn-primary:hover {
+        background-color: #0a58ca !important;
+        border-color: #0a4db8 !important;
+    }
+
+a {
+    color: #0077cc !important;
+}
+
+    a:hover {
+        color: #0056b3 !important;
+    }
+
+i,
+.feature-icon {
+    color: #007bff !important;
+}
+
+/* ========================== */
+/* 📌 TEMA ESCURO */
+/* ========================== */
+
 body.dark-theme {
-    background-color: #121212;
-    color: #e0e0e0;
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
 }
 
-    /* Navbar */
     body.dark-theme .navbar {
         background-color: #1e1e1e !important;
-        border-bottom: 1px solid #333;
+        border-bottom: 1px solid #333 !important;
     }
 
-    /* Footer */
     body.dark-theme .footer {
-        background-color: #1e1e1e;
-        color: #e0e0e0;
+        background-color: #1e1e1e !important;
+        color: #e0e0e0 !important;
     }
 
-    /* Cards */
     body.dark-theme .card {
-        background-color: #1e1e1e;
-        color: #ffffff;
-        border: 1px solid #333;
+        background-color: #1e1e1e !important;
+        color: #ffffff !important;
+        border: 1px solid #333 !important;
     }
 
-    /* Melhor contraste para botões */
     body.dark-theme .btn-light {
-        background-color: #444;
-        color: #ffffff;
-        border: 1px solid #666;
+        background-color: #444 !important;
+        color: #ffffff !important;
+        border: 1px solid #666 !important;
     }
-
-        body.dark-theme .btn-light:hover {
-            background-color: #555;
-            border: 1px solid #777;
-        }
 
     body.dark-theme .btn-primary {
-        background-color: #0d6efd;
-        border-color: #0b5ed7;
-        color: #ffffff;
+        background-color: #0d6efd !important;
+        border-color: #0b5ed7 !important;
+        color: #ffffff !important;
     }
 
         body.dark-theme .btn-primary:hover {
-            background-color: #0a58ca;
-            border-color: #0a4db8;
+            background-color: #0a58ca !important;
+            border-color: #0a4db8 !important;
         }
 
-    /* Melhor contraste para links */
     body.dark-theme a {
-        color: #66b2ff;
+        color: #66b2ff !important;
     }
 
         body.dark-theme a:hover {
-            color: #bbdefb;
+            color: #bbdefb !important;
         }
 
-    /* Melhor contraste para ícones */
+    /* Ícones */
     body.dark-theme i,
     body.dark-theme .feature-icon {
-        color: #f8b400 !important; /* Ícones destacados em amarelo para melhor visibilidade */
+        color: #f8b400 !important;
     }
 
-    /* Seções */
-    body.dark-theme .welcome-section {
-        background-color: #1e1e1e;
-        color: #ffffff;
+/* ========================== */
+/* 🎨 TRANSIÇÃO SUAVE ENTRE TEMAS */
+/* ========================== */
+body {
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.navbar,
+.footer,
+.card,
+.btn,
+a,
+.feature-icon {
+    transition: all 0.5s ease;
+}
+
+/* Efeito Fade na mudança de tema */
+body.theme-transition {
+    transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+/* ========================== */
+/* 📌 FORMULÁRIOS */
+/* ========================== */
+
+.form-control {
+    background-color: var(--bs-body-bg);
+    color: var(--bs-body-color);
+    border: 1px solid var(--bs-border-color);
+}
+
+    .form-control:focus {
+        background-color: var(--bs-body-bg);
+        color: var(--bs-body-color);
+        border-color: var(--bs-primary);
+        box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
     }
 
-    body.dark-theme .features-section .card {
-        background-color: #242424;
-        color: #ffffff;
-        border: 1px solid #444;
+.form-label {
+    color: var(--bs-body-color);
+}
+
+/* ========================== */
+/* 📌 BOTÕES */
+/* ========================== */
+
+.btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    color: var(--bs-white);
+}
+
+    .btn-primary:hover {
+        background-color: var(--bs-primary-dark);
+        border-color: var(--bs-primary-dark);
     }
+
+.btn-secondary {
+    background-color: var(--bs-secondary);
+    border-color: var(--bs-secondary);
+    color: var(--bs-white);
+}
+
+    .btn-secondary:hover {
+        background-color: var(--bs-secondary-dark);
+        border-color: var(--bs-secondary-dark);
+    }
+
+.btn-danger {
+    background-color: var(--bs-danger);
+    border-color: var(--bs-danger);
+    color: var(--bs-white);
+}
+
+    .btn-danger:hover {
+        background-color: var(--bs-danger-dark);
+        border-color: var(--bs-danger-dark);
+    }
+
+/* ========================== */
+/* 📌 ALERTAS */
+/* ========================== */
+
+.alert-warning {
+    background-color: var(--bs-warning-bg-subtle);
+    border-color: var(--bs-warning-border-subtle);
+    color: var(--bs-warning-text);
+}

@@ -1,23 +1,15 @@
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Adiciona serviços ao container.
-builder.Services.AddControllersWithViews();
+// Criação do Startup e configuração dos serviços
+var startup = new Startup(builder.Configuration);
+startup.ConfigureServices(builder.Services);
 
 var app = builder.Build();
 
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
-}
-
-app.UseHttpsRedirection(); 
-app.UseStaticFiles(); 
-app.UseRouting(); 
-app.UseAuthorization(); 
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+// Configuração do pipeline de requisição com o Startup
+startup.Configure(app, app.Environment);
 
 app.Run();

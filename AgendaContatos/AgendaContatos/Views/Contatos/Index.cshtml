@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Listagem de Contatos";
+}
+
+<h1 class="display-4">Listagem de Contatos</h1>
+
+<!-- Botão para adicionar novo contato -->
+<div class="mb-3">
+    <a class="btn btn-primary" asp-controller="Contatos" asp-action="Create">Adicionar Contato</a>
+</div>
+
+<div class="row">
+    @foreach (var contato in Model)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@contato.Nome</h5>
+                    <p class="card-text"><strong>Celular:</strong> @contato.Celular</p>
+                    <button class="btn btn-secondary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#detalhes-@contato.Id">
+                        Ver mais
+                    </button>
+                    <div class="collapse mt-2" id="detalhes-@contato.Id">
+                        <p class="card-text"><strong>Email:</strong> @contato.Email</p>
+                        <a class="btn btn-primary btn-sm" asp-controller="Contatos" asp-action="Edit" asp-route-id="@contato.Id">Editar</a>
+                        <a class="btn btn-danger btn-sm" asp-controller="Contatos" asp-action="Delete" asp-route-id="@contato.Id">Remover</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
